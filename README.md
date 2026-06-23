@@ -3,7 +3,7 @@
 💻 Backend Software Developer passionate about building scalable applications with Java, Spring Boot, and modern DevOps practices.
 
 ## 🛠️ Tech Stack
-Java • Spring Boot • Spring Security • PostgreSQL • Docker • Jenkins • Kubernetes • Apache Kafka • Git
+Java • Spring Boot • Spring Security • MySQL • Docker • Jenkins • Kubernetes • Apache Kafka • Git • Git Actions
 
 🚀 Currently Building
 - Docker & Jenkins CI/CD Demo
