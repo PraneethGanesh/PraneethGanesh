@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Praneeth Ganesh
+
+## Backend Software Developer
+
+I enjoy building scalable backend applications and learning modern DevOps practices.
+
+### 🛠️ Tech Stack
+- Java
+- Spring Boot
+- Spring Security
+- PostgreSQL
+- Docker
+- Jenkins
+- Kubernetes
+- Apache Kafka
+- Git & GitHub
+
+### 🚀 Currently Learning
+- CI/CD Pipelines
+- Kubernetes
+- Nginx
+- Docker
+- Microservices
+
+### 📂 Featured Projects
+- Hello DevOps – Spring Boot + Docker + Jenkins
+- JWT Authentication Demo
+- Kafka Notification Service
+- Device Management System
+
+### 📫 Connect with Me
+- Portfolio: https://techpranu.netlify.app
+- LinkedIn: https://linkedin.com/in/praneeth-ganesh
 
 <!--
 **PraneethGanesh/PraneethGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
